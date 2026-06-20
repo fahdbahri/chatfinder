@@ -14,7 +14,7 @@
 
 
 
-## 🚀 Local Development Setup
+## Local Development Setup
 
 This project has two main parts:
 
